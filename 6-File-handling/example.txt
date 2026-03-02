@@ -1,0 +1,6 @@
+A new world order is in the making. 
+And we are here to dominate it. 
+We are appending a new line to the file. 
+Line 1
+Line 2
+Line 3
