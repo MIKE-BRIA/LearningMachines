@@ -1,6 +1,12 @@
 
 ### Building Url Dynamically
 ### Jinja 2 Template engine
+'''
+{{}} expressions to print output in html
+{%...%} conditions, for loops
+{#...#} this is for comments
+'''
+
 
 
 
